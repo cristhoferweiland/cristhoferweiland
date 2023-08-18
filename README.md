@@ -21,6 +21,7 @@
 <h2><a target="_blank" href="https://cristhoferweiland.github.io/portfolio_projetos/">Portfólio de Projetos</a></h2>
   
   * [Curry.Go Company Business Insights](https://github.com/cristhoferweiland/Curry.Go_Company_Project/)
+  * [Rossmann Store Sales Prediction](https://github.com/cristhoferweiland/rossmann_store_sales_prediction)
 
 ## Estatísticas Github
 <div>
